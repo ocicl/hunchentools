@@ -1,0 +1,10 @@
+* hunchentools
+
+Hunchentoot and CL-WHO utility library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaeljforster/hunchentools.git   |
+| commit  | 45d8479  |
+| systems | hunchentools |
+|---------+-------------------------------------------|
+
